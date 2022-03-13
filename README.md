@@ -21,4 +21,4 @@ start with:
 
 GPL-3.0 License
 
-partly taken over from https:raw.githubusercontent.com/Ne0nd0g/go-shellcode/master/cmd/CreateThread/main.go (GPL-3.0 License)
+partly taken over from <https:raw.githubusercontent.com/Ne0nd0g/go-shellcode/master/cmd/CreateThread/main.go> (GPL-3.0 License)
